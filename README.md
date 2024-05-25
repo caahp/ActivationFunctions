@@ -20,8 +20,7 @@ Este projeto visa explorar diferentes funções de ativação comumente usadas e
 1. Clone o repositório para o seu Google Colab
 2. Execute o código Python para visualizar os gráficos das funções de ativação e suas derivadas.
 3. Experimente com diferentes intervalos de entrada e parâmetros para obter insights adicionais sobre o comportamento das funções.
-4. Contribua com suas próprias implementações ou sugestões para melhorar o projeto.
-
+4. 
 **Autores:**
   - [Caroline Souza](https://github.com/caahp)
   - [Kirk Sahdo](https://github.com/kirksahdo)
